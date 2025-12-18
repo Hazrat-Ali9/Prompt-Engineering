@@ -2,4 +2,4 @@
 
 # ✈ Programmer || Software Engineering
 
-# 🤖 Prompt EngineeRing
+# 🤖 Prompt Engineering
